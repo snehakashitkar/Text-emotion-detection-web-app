@@ -1,0 +1,68 @@
+/* styles.css */
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+}
+
+.sidebar .sidebar-content {
+    background-color: #4B4B4B;
+    color: white;
+}
+
+h1, h2, h3 {
+    color: #4B4B4B;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: 1.2em;
+    text-align: center;
+    margin: 1em 0;
+}
+
+.emotion-text {
+    font-size: 20px;
+    color: #FF6347;
+}
+
+.confidence {
+    font-weight: bold;
+    font-size: 18px;
+    color: #4682B4;
+}
+
+img {
+    border-radius: 15px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+button {
+    background-color: #FF6347;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FF4500;
+}
