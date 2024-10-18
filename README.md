@@ -1,6 +1,6 @@
 # Text-emotion-detection-web-app
 
-#Welcome to the Text Emotion Detection Web App
+Welcome to the Text Emotion Detection Web App
 This app uses a machine learning model to detect emotions from text input. Use the Emotion Detection page to analyze the emotions in your text. Learn more about the project on the About page.
 
 
